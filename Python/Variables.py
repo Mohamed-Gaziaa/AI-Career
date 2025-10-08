@@ -10,18 +10,17 @@
 # [4] Case sensitive (Name not equal name).
 # [5] Should be descriptive.
 # -------------------------------------------------------------------------------
-
-name = "Mohamed Ibrahim"
-print(name)
-print("-------------------------------------------------------------------------------")
-
-# -------------------------------------------------------------------------------
 # Variable naming styles (naming cases)
 # [1] Snake case (Most common using in python).
 # [2] Camel case.
 # [3] Pascal case.
 # [4] Upper case.
 # -------------------------------------------------------------------------------
+
+name = "Mohamed Ibrahim"
+print(name)
+
+print("-------------------------------------------------------------------------------")
 
 # Snake case.
 user_name = "Mohamed"
